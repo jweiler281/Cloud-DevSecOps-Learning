@@ -25,6 +25,7 @@
 - **Getting Started with HashiCorp Vault (**[**https://www.udemy.com/course/hashicorp-vault/**](https://www.udemy.com/course/hashicorp-vault/)**)**
 - **HashiCorp Certified: Vault Associate 2021 (**[**https://www.udemy.com/course/hashicorp-certified-vault-associate/**](https://www.udemy.com/course/hashicorp-certified-vault-associate/)**)**
 - **HashiCorp Vault: The Advanced Course (**[**https://www.udemy.com/course/vaultadvanced/**](https://www.udemy.com/course/vaultadvanced/)**)**
+- **Learn DevOps: The Complete Kubernetes Course (**[**https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/**](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)**)**
 
 **ACloudGuru – Leading Cloud-learning platform provider, includes built-in labs and playgrounds**
 
@@ -50,3 +51,7 @@
 **AWS**
 -  AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)
 -  AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
+
+**PluralSight**
+- **Terraform - Getting Started (**[**https://www.pluralsight.com/courses/getting-started-terraform**](https://www.pluralsight.com/courses/getting-started-terraform)**)**
+- **DevSecOps - The Big Picture (**([**https://www.pluralsight.com/courses/devsecops-big-picture**](https://www.pluralsight.com/courses/devsecops-big-picture)**)**
